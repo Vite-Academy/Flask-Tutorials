@@ -1,0 +1,4 @@
+- Run the flask run CLI command with debug mode enabled, 
+which will automatically enable the reloader:
+$ flask --app main.py --debug run 
+
